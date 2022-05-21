@@ -1,3 +1,8 @@
+// Serly Teymoorian 
+// Final Project - Part 1 
+// Press 1 -> turn the LED on 
+// Press 2 -> turn the LED off
+
 #define LED_BUILTIN 2
 #include <WiFi.h>
 #include <PubSubClient.h>
